@@ -1,0 +1,16 @@
+h1{
+    text-align : center;
+}
+
+h2{
+    display : inline;
+    line-height : 2;
+}
+
+body{
+    background-image: repeat-y;
+}
+
+html{
+    background-image: -webkit-linear-gradient(50deg, #F5EBE0 70%, #FFCACA 40%);
+}
